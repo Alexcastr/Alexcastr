@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👔 I’m currently working on Eco2 company as a software developer also building my own projects<br>- 💻 I’m currently learning aws, how to implement good practices, and improving my programmation logic<br>- 🤔 I’m looking for help with improving architecture and the UI/UX <br>- 📫 How to reach me: You can reach me via email at castro.t.alex@gmail.com<br>- ⚡ Fun fact: I love to play voleibol and several mobile games
+- 👔 I’m currently working on Eco2 company as a software developer also building my own projects<br>- 💻 I’m currently learning aws, how to implement good practices, and improving my programing logic<br>- 🤔 I’m looking for help with improving architecture and the UI/UX <br>- 📫 How to reach me: You can reach me via email at castro.t.alex@gmail.com<br>- ⚡ Fun fact: I love to play voleibol and several mobile games
 
 
 ## 🌐 Socials:
